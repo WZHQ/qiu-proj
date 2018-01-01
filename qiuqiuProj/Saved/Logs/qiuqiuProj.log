@@ -231,3 +231,12 @@ Localization Resource: (F:/UnrealEngine4.15/UE_4.15/Engine/Content/Localization/
 
 [2018.01.01-14.54.56:977][193]LogTemp:Display:    ?? iPhonePackager.Program.Main(String[] args)
 
+[2018.01.01-14.59.14:879][415]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.01-14.59.15:832][415]LogSavePackage: Save=753.35ms
+[2018.01.01-14.59.15:832][415]LogSavePackage: Moving 'D:/UE4_Project/qiuqiu/qiu-proj/qiuqiuProj/Saved/RollingBPExampleMapC9DA8FFA48D11AFF03EAE3B0E9EC5C59.tmp' to 'D:/UE4_Project/qiuqiu/qiu-proj/qiuqiuProj/Content/RollingBP/Maps/RollingBPExampleMap.umap'
+[2018.01.01-14.59.15:837][415]LogSavePackage:Display: Finished SavePackage D:/UE4_Project/qiuqiu/qiu-proj/qiuqiuProj/Content/RollingBP/Maps/RollingBPExampleMap.umap
+[2018.01.01-14.59.15:901][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollingBP/Maps/RollingBPExampleMap_BuiltData" FILE="D:/UE4_Project/qiuqiu/qiu-proj/qiuqiuProj/Content/RollingBP/Maps/RollingBPExampleMap_BuiltData.uasset" SILENT=true
+[2018.01.01-14.59.16:981][415]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.01-14.59.23:482][415]LogSavePackage: Save=7516.93ms
+[2018.01.01-14.59.23:482][415]LogSavePackage: Moving 'D:/UE4_Project/qiuqiu/qiu-proj/qiuqiuProj/Saved/RollingBPExampleMap_BuiltData5A6E409D4914012F9EF02C8C4A2A0582.tmp' to 'D:/UE4_Project/qiuqiu/qiu-proj/qiuqiuProj/Content/RollingBP/Maps/RollingBPExampleMap_BuiltData.uasset'
+[2018.01.01-14.59.23:490][415]LogSavePackage:Display: Finished SavePackage D:/UE4_Project/qiuqiu/qiu-proj/qiuqiuProj/Content/RollingBP/Maps/RollingBPExampleMap_BuiltData.uasset
